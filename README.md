@@ -5,3 +5,6 @@
 3. Stage the Payload using curl or an HTTP client
 4. Send the request to the server
 5. The server will respond with the protected page without throwing an error
+
+# Screen recoding
+https://cln.sh/XPy3ZQHm
